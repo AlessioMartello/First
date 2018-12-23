@@ -162,3 +162,35 @@ margin-top: 5%;}
 .dropdown:hover .dropdown-content {
 	display: block;
 	}
+
+.slideShow{
+	display: none;
+	height: 60%;
+	width: 60%;
+	margin-top: 10%;
+	margin-bottom: 10%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.slideShowButtons{
+	width: 100%;
+	height: 100%;
+}
+
+.slideShowButtons button{
+	background-color: rgb(255, 79, 15);
+	border-color: : black;
+	width:15%;
+	border-radius: 5px;
+	border-width: thin;
+	opacity: 0.985;
+}
+
+#left {
+float: left;
+}
+
+#right{
+	float: right;
+}
