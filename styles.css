@@ -16,6 +16,8 @@
 	background-image: url(Media/1049.jpg);
 	background-size:cover;
 	background-repeat: no-repeat;
+	/* height:100%; */
+	min-height: 100%;
 	}
 
 .body{
@@ -47,14 +49,18 @@
   background: rgba(0, 0, 0, 0.5); /*  0.5 opacity */
   color: white; /* Grey text */
   width: 70%; /* Full width */
-  padding: 5% 10px; /* Some padding */
+  padding: 5% 10px ; /* Some padding */
 	margin: auto;
+	padding-right: 10%;
+padding-left: 10%;
+line-height: 200%;
 	}
 
 .tagline{
 	font-family: impact, serif;
 	font-size: 30px;
 	animation: fadeIn 5s;
+
 	}
 
 .button{
@@ -91,6 +97,29 @@
 	display: inline;
 	}
 
+.footerContainer{
+	max-width: 100%;
+	background-color: rgba(176,224,230, 0.7); /*  powderblue with opacity */
+	position: absolute;
+	left: 0;
+	right: 0;
+	padding: 2%;
+
+}
+
+.footerContainer a{
+	text-decoration: none;
+color: black;}
+
+.footerMediaIcons{
+	word-spacing: 4rem;
+}
+
+.footerMediaIcons a:hover{
+	opacity: 0.8;
+	color: rgb(255, 79, 15);
+}
+
 .images_full img{
 	}
 
@@ -114,7 +143,7 @@
 	list-style: none;
 	display: block;
 	margin-top: 20%;
-	margin-bottom: 20%;
+	margin-bottom: 10%;
 	}
 
 .Main-nav li{
