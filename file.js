@@ -2,7 +2,7 @@
 
 function showDivs(n) {
   var i;
-  var image = document.getElementsByClassName("slideShow");
+  var image = document.getElementsByClassName("artSlideShow");
   if (n > image.length ) {slideIndex=1;}
   // if reached end of array, starts over
   if (n < 1) {slideIndex = image.length;}
@@ -11,7 +11,7 @@ function showDivs(n) {
     {image[i].style.display = "none";}        //execute this
 
   image[slideIndex-1].style.display = "block";
-}
+  }
 
 var slideIndex = 1; //set the picture to number one
 showDivs(slideIndex); // call the function showDivs for the current slideIndex (number) to dislay it
