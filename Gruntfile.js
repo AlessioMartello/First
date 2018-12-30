@@ -7,6 +7,15 @@ module.exports = function(grunt) {
 
   grunt.initConfig({
     pkg: grunt.file.readJSON ('package.json'),
+
+    uncss: {
+      dist:{
+        files:{
+          'styles.css':['index.html', 'Art.html','Videos.html', 'Pictures.html'],
+        }
+      }
+    },
+
     cssmin: {
       target: {
         files: [{
@@ -23,10 +32,11 @@ module.exports = function(grunt) {
 // Load plugins
 
 grunt.loadNpmTasks('grunt-contrib-cssmin');
+grunt.loadNpmTasks('grunt-uncss');
 
 // Do the task
 
-grunt.registerTask("default", ['cssmin']);
+grunt.registerTask("default", ['uncss', 'cssmin']);
 
 // Basic settings and info about plugins
 

@@ -23,6 +23,7 @@
     "grunt": "^1.0.3",
     "grunt-contrib-cssmin": "^3.0.0",
     "grunt-purgecss": "^1.0.0",
+    "grunt-uncss": "^0.8.5",
     "jshint": "^2.9.7"
   }
 }
