@@ -1,0 +1,28 @@
+{
+  "name": "first",
+  "version": "1.0.0",
+  "description": "My website about Paris",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlessioMartello/First.git"
+  },
+  "keywords": [
+    "Paris"
+  ],
+  "author": "Alessio Martello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlessioMartello/First/issues"
+  },
+  "homepage": "https://github.com/AlessioMartello/First#readme",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-purgecss": "^1.0.0",
+    "jshint": "^2.9.7"
+  }
+}
