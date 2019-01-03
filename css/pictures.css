@@ -1,0 +1,42 @@
+
+/* Pictures.html styling */
+
+.picturesContainer img{
+	height: 40%;
+	width: 40%;
+	margin-top: 1%;
+	margin-bottom: 1%;
+	display: inline;
+	}
+
+.picturesHorizontal img{
+	margin-left: auto;
+	margin-right: auto;
+	display: inline-block;
+	height: auto;
+	width: 80%;
+	}
+
+.picturesSquare img{
+	display: inline;
+	}
+
+.picturesPano img {
+	width: 80%;
+	height: auto;
+	}
+
+.bgModal{
+	width: 100%;
+	min-height: 100%;
+	background-color: rgba(0,0,0,0.7);
+	opacity: 0.7;
+	/* position: absolute; */
+	top: 0;
+	}
+
+	/* .modalContent{
+		width: 80%;
+		} */
+
+

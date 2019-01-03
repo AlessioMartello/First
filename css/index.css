@@ -1,0 +1,87 @@
+/* index.html styling */
+.index {
+	text-align: center;
+	background-image: url("../img/1049.jpg");
+	background-size:cover;
+	background-repeat: no-repeat;
+	min-height: 100%;
+	}
+
+.taglineContainer{
+	margin-top: 20%;
+	margin-bottom: 5%;
+	}
+
+.tagline {
+	background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /*  0.5 opacity */
+  color: white; /* Grey text */
+  width: 70%; /* Full width */
+  padding: 5% 10px ; /* Some padding */
+	margin: auto;
+	padding-right: 10%;
+	padding-left: 10%;
+	line-height: 200%;
+	font-family: impact, serif;
+	font-size: 30px;
+	animation: fadeIn 5s;
+	}
+
+.MainNav {
+	list-style: none;
+	display: block;
+	margin-top: 20%;
+	margin-bottom: 10%;
+	}
+
+.MainNav li{
+	display: inline-block;
+	}
+
+.MainNavButton{
+	font-family: courier new;
+	font-weight:normal;
+	font-size:60px;
+	color: rgb(255, 79, 15);
+	border: solid powderblue;
+	border-radius: 20px;
+	padding: 3px 50px;
+	text-decoration: inherit;
+	transition-duration:490ms;
+	margin-bottom: 35%;
+	}
+
+.MainNavButton:hover{
+	background-color: rgb(255, 79, 15);
+	color: #b3f0ff;
+	}
+
+@keyframes fadeIn {
+	from {
+		opacity: 0;
+	}
+	to {opacity: 1;
+	}
+}
+
+.footerContainer{
+	max-width: 100%;
+	background-color: rgba(176,224,230, 0.7); /*  powderblue with opacity */
+	position: absolute;
+	left: 0;
+	right: 0;
+	padding: 2%;
+	}
+
+.footerContainer a{
+	text-decoration: none;
+	color: black;}
+
+.footerMediaIcons{
+	word-spacing: 4rem;
+	}
+
+.footerMediaIcons a:hover{
+	opacity: 0.8;
+	color: rgb(255, 79, 15);
+	}
