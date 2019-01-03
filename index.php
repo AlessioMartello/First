@@ -2,9 +2,9 @@
 <html lang="en">
 
 
-  <?php $title = '[title]'; ?>
+  <?php $title = "Alessio's Portfolio"; ?>
   <?php $metaTags = 'tag1 tag2'; ?>
-  <?php $currentPage = '[pagename]'; ?>
+  <?php $currentPage = 'index'; ?>
   <?php include('components/head.php'); ?>
 
   <body id="page-top">
