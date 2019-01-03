@@ -7,11 +7,12 @@
   <?php $currentPage = 'index'; ?>
   <?php include('components/head.php'); ?>
 
-  <body id="page-top">
+  <body id="page-top" class="index">
     <?php include('components/header.php'); ?>
-    <div id="contents" class="">
-      <!-- Include content here -->
-    </div>
+    
+    <!-- Include content here -->
+    <?php include('content/index.php') ?>
+
     <?php include('components/footer.php'); ?>
     <?php include('components/include-scripts.php'); ?>
   </body>
