@@ -1,16 +1,6 @@
 
 /* Global styling */
 
-.body{
-	/* min-height: 100%; */
-	/* display: table; */
-	/* position: absolute;
-	top: 0;
-	margin: 0;
-	border:0;
-	padding: 0; */
-	}
-
 .heading {
 	font-family: courier, serif;
 	font-size: 250%;
@@ -26,10 +16,9 @@
 	}
 
 /* index.html styling */
-
 .index {
 	text-align: center;
-	background-image: url(Media/1049.jpg);
+	background-image: url("../img/1049.jpg");
 	background-size:cover;
 	background-repeat: no-repeat;
 	min-height: 100%;
