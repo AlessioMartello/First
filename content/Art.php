@@ -1,4 +1,4 @@
-<? php include("components/drop-down") ?>
+<?php include("components/drop-down.php") ?>
 
 <div class="introTextContainer">
 <div class= "introText">
@@ -6,4 +6,8 @@
 </div>
 </div>
 
-<? php include("components/Carousel") ?>
+<div class="container">
+
+<?php include("components/Carousel.php") ?>
+
+</div>
