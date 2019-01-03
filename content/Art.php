@@ -6,8 +6,12 @@
 </div>
 </div>
 
+<<<<<<< HEAD
 <div class="container">
 
 <?php include("components/Carousel.php") ?>
 
 </div>
+=======
+<?php include("components/Carousel.php") ?>
+>>>>>>> a82ed07ca8c1f58d1859cfb11276c4750570cd4a
