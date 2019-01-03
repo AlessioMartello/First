@@ -12,15 +12,15 @@
 
 	<body>
 
-		<h1><a href="index.html" class="heading"> Alessio</a></h1>
+		<h1><a href="index.php" class="heading"> Alessio</a></h1>
 
     <div class="dropdown">
       <p>*add logo*</p>
 	    <div class="dropdownContent">
-	      <a href="index.html">Home</a>
-	      <a href="Art.html">Art</a>
-	      <a href="Videos.html">Videos</a>
-				<a href="Collaborations.html">Collaborations</a>
+	      <a href="index.php">Home</a>
+	      <a href="Art.php">Art</a>
+	      <a href="Videos.php">Videos</a>
+				<a href="Collaborations.php">Collaborations</a>
 	    </div>
 	  </div>
 

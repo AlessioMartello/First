@@ -8,13 +8,13 @@
 		<link rel="stylesheet" href="css/index.css">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 
-		<title> index.html</title>
+		<title> index</title>
 
 	</head>
 
 	<body>
 
-		<h1><a href="index.html" class="heading"> Alessio</a></h1>
+		<h1><a href="index.php" class="heading"> Alessio</a></h1>
 
 		<div class="taglineContainer">
 			<div class="tagline">
@@ -24,10 +24,10 @@
 		</div>
 
 			<ul class="MainNav">
-				<li><a href="Pictures.html" class="MainNavButton"> Pictures </a></li>
-				<li><a href="Art.html" class="MainNavButton"> Art </a></li>
-				<li><a href="Videos.html" class="MainNavButton"> Videos </a></li>
-				<li><a href="Collaborations.html" class="MainNavButton"> Collaborations </a></li>
+				<li><a href="Pictures.php" class="MainNavButton"> Pictures </a></li>
+				<li><a href="Art.php" class="MainNavButton"> Art </a></li>
+				<li><a href="Videos.php" class="MainNavButton"> Videos </a></li>
+				<li><a href="Collaborations.php" class="MainNavButton"> Collaborations </a></li>
 			</ul>
 
 
