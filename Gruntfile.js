@@ -36,7 +36,7 @@ grunt.loadNpmTasks('grunt-uncss');
 
 // Do the task
 
-grunt.registerTask("default", ['uncss', 'cssmin']);
+grunt.registerTask("default", [ 'cssmin']);
 
 // Basic settings and info about plugins
 
