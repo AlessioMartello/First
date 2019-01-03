@@ -11,10 +11,10 @@
     <?php include('components/header.php'); ?>
 
     <!-- Include content here -->
-    <?php include('content/pictures.php'); ?>
-
+    <?php include('content/Pictures.php'); ?>
 
     <?php include('components/footer.php'); ?>
+    <?php include('components/include-scripts.php'); ?>
   </body>
 
 </html>

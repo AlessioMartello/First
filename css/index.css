@@ -63,25 +63,3 @@
 	to {opacity: 1;
 	}
 }
-
-.footerContainer{
-	max-width: 100%;
-	background-color: rgba(176,224,230, 0.7); /*  powderblue with opacity */
-	position: absolute;
-	left: 0;
-	right: 0;
-	padding: 2%;
-	}
-
-.footerContainer a{
-	text-decoration: none;
-	color: black;}
-
-.footerMediaIcons{
-	word-spacing: 4rem;
-	}
-
-.footerMediaIcons a:hover{
-	opacity: 0.8;
-	color: rgb(255, 79, 15);
-	}
