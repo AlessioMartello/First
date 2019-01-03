@@ -8,13 +8,12 @@
   <?php include('components/head.php'); ?>
 
   <body id="page-top">
-    <?php include('navigation.php'); ?>
+    <?php include('components/header.php'); ?>
     <div id="contents" class="">
-      <?php include('header.php'); ?>
       <!-- Include content here -->
-      <?php include('footer.php'); ?>
     </div>
-    <?php include('include-scripts.php'); ?>
+    <?php include('components/footer.php'); ?>
+    <?php include('components/include-scripts.php'); ?>
   </body>
 
 </html>
