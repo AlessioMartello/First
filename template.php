@@ -2,16 +2,16 @@
 <html lang="en">
 
   
-  <?php $title = 'Corinthian - Makers and Restorers of Fine Furniture'; ?>
+  <?php $title = '[title]'; ?>
   <?php $metaTags = 'tag1 tag2'; ?>
-  <?php $currentPage = 'index'; ?>
-  <?php include('head.php'); ?>
+  <?php $currentPage = '[pagename]'; ?>
+  <?php include('components/head.php'); ?>
 
   <body id="page-top">
     <?php include('navigation.php'); ?>
-    <div id="contents" class="not-blurred">
+    <div id="contents" class="">
       <?php include('header.php'); ?>
-      <!-- Include content below -->
+      <!-- Include content here -->
       <?php include('footer.php'); ?>
     </div>
     <?php include('include-scripts.php'); ?>
