@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 <div id="carouselArt" class="carousel slide" data-ride="carousel">
-=======
-<div class="container">
-<div id="myCarousel" class="carousel slide" data-ride="carousel">
-  <!-- Indicators -->
->>>>>>> a82ed07ca8c1f58d1859cfb11276c4750570cd4a
+
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -29,5 +24,4 @@
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-</div>
 </div>
