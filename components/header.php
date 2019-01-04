@@ -1,1 +1,1 @@
-<h1><a href="index.php" class="heading"> Alessio</a></h1>
+<h1><a href="index.php" class="header"> Alessio</a></h1>
