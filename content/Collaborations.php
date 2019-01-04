@@ -1,4 +1,4 @@
-<?php include("components/drop-down.php") ?>
+<?php include("components/Drop-down/Collaborations.php") ?>
 
 <p> Watch this space.
 

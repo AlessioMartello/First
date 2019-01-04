@@ -1,4 +1,4 @@
-<?php include("components/drop-down.php")?>
+<?php include("components/Drop-down/Pictures.php")?>
 
 <div class="introTextContainer">
 <div class= "introText">
