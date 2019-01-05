@@ -1,10 +1,13 @@
 <div id="carouselArt" class="carousel slide" data-ride="carousel">
 
+<!-- slide #indicator -->
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
   </ol>
+
+  <!-- Slides wrapper -->
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block w-100" src="img/1140.jpg" alt="Harry">
@@ -16,6 +19,8 @@
       <img class="d-block w-100" src="img/011.jpg" alt="Octave">
     </div>
   </div>
+
+  <!-- controls -->
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
