@@ -8,9 +8,9 @@
 
 <div class="picturesContainer">
 
-<?php include("components/Lightbox.php")?>
+<!-- <?php include("components/Lightbox.php")?> -->
 
-  <!-- <div class="picturesFull">
+  <div class="picturesFull">
     <img src="img/1028.jpg" alt="Image of ...">
     <img src="img/965.jpg" alt="Image of ...">
     <img src="img/1089.jpg" alt="Image of ...">
@@ -46,4 +46,4 @@
     <img src="img/102.jpg" alt="Image of ...">
   </div>
 
-</div> -->
+</div>

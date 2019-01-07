@@ -7,7 +7,7 @@
   <?php $currentPage = 'Collaborations'; ?>
   <?php include('components/head.php'); ?>
 
-  <body id="page-top" class="backgroundFormatting">
+  <body id="page-top" class="backgroundCollaborations">
     <?php include('components/header.php'); ?>
 
     <!-- Include content here -->
