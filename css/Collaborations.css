@@ -1,7 +1,16 @@
 .backgroundCollaborations{
   text-align: center;
   background-image: url("../img/durackArt/Drip.jpg");
-  background-size:cover;
+  background-size: cover;
   background-repeat: no-repeat;
-  height: 100%;
+  background-position: top;
+  min-height: 100%;
+  display: compact;
+}
+
+.btn-group button{
+  background-color: powderblue;
+  color: black;
+  border-color: grey;
+  /* box-shadow:  0px 2px; */
 }

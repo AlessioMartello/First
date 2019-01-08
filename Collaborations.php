@@ -6,6 +6,8 @@
   <?php $metaTags = 'tag1 tag2'; ?>
   <?php $currentPage = 'Collaborations'; ?>
   <?php include('components/head.php'); ?>
+  <?php include('components/include-scripts.php'); ?>
+
 
   <body id="page-top" class="backgroundCollaborations">
     <?php include('components/header.php'); ?>
@@ -15,7 +17,7 @@
 
 
     <?php include('components/footer.php'); ?>
-    <?php include('components/include-scripts.php'); ?>
+
   </body>
 
 </html>
