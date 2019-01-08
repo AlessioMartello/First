@@ -1,4 +1,5 @@
-<div id="myCarousel" class="carousel slide" data-ride="carousel">
+<div class="container .col-lg-2">
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -8,11 +9,23 @@
   <div class="carousel-inner">
 
     <div class="item active">
-      <img src="img/durackArt/Drip.jpg">
+      <img src="img/durackArt/Circus.jpg" >
     </div>
 
     <div class="item">
-      <img src="img/durackArt/Circus.jpg">
+      <img src="img/durackArt/Blobs.jpg" >
+    </div>
+
+    <div class="item">
+      <img src="img/durackArt/Juxto.jpg" >
+    </div>
+
+    <div class="item">
+      <img src="img/durackArt/frozenSoup.jpg" >
+    </div>
+
+    <div class="item">
+      <img src="img/durackArt/Portal.jpg" >
     </div>
   </div>
 
@@ -26,4 +39,5 @@
     <span class="glyphicon glyphicon-chevron-right"></span>
     <span class="sr-only">Next</span>
   </a>
+</div>
 </div>
