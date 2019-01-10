@@ -22,8 +22,8 @@
 	padding-right: 10%;
 	padding-left: 10%;
 	line-height: 200%;
-	font-family: impact, serif;
-	font-size: 30px;
+	font-family: courier, serif;
+	font-size: 2rem;
 	animation: fadeIn 5s;
 	}
 
@@ -41,7 +41,7 @@
 .MainNavButton{
 	font-family: courier new;
 	font-weight:normal;
-	font-size:60px;
+	font-size:4rem;
 	color: rgb(255, 79, 15);
 	border: solid powderblue;
 	border-radius: 20px;
