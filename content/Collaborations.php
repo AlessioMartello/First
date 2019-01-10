@@ -2,6 +2,7 @@
 
 <div class="container" id= "txtDurack">
       <h1>COLLABORATIONS</h1>
+      <hr />
         <h2>Daniel Durack</h2>
 </div>
 
