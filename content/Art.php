@@ -8,6 +8,6 @@
 
 <div class="container">
 
-<?php include("components/Carousel.php") ?>
+<?php include("components/Carousels/CarouselArt.php") ?>
 
 </div>
