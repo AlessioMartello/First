@@ -18,3 +18,9 @@
 #txtDurack{
   margin-top: 5%;
 }
+
+@media (min-width: 768px) {
+  .container {
+      width: 445px !important;
+  }
+}
