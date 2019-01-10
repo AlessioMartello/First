@@ -1,6 +1,6 @@
 <div class="taglineContainer">
 			<div class="tagline">
-				<p>I'm Alessio and this is site is a compliation of my favourite photos, videos and personal artwork from my life in Paris.
+				<p>I'm Alessio and this site is a compilation of my favourite photos, videos and personal artwork from my life in Paris.
 				</p>
 			</div>
 		</div>
