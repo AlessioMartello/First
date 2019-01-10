@@ -19,8 +19,7 @@
   margin-top: 5%;
 }
 
-@media (min-width: 768px) {
-  .container {
-      width: 445px !important;
-  }
-}
+.containerDurack {
+      width: 45%;
+    margin-left: auto;
+  margin-right: auto;}

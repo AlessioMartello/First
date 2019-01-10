@@ -17,8 +17,12 @@
   <!-- Custon css for specific page -->
   <link rel="stylesheet" href="css\<?php echo($currentPage); ?>.css" >
 
+
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+  <!-- Remove bootstrap default styling -->
+  <link rel="stylesheet" href ="css/remove-bootstrap-styles.css">
 
 </head>
