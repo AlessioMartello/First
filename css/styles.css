@@ -97,7 +97,7 @@
 
 	.footerContainer a{
 		text-decoration: none;
-		color: black;
+		color: rgba(0, 0, 0, 0.7);
 	}
 
 	.footerMediaIcons{
