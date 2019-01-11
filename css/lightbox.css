@@ -206,6 +206,7 @@ html.lb-disable-scrolling {
   opacity: 1;
 }
 
-/* .gallery img{
-  width: 80%; To make thumbnail smaller
-} */
+.gallery img{
+  /* width: 80%; To make thumbnail smaller */
+height: auto;
+}

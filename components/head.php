@@ -8,6 +8,8 @@
   <!-- Custon global css for each page -->
   <link rel="stylesheet" href="css/styles.css">
 
+  <!-- Lightbox CSS file -->
+
   <!-- CDN for Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Poiret+One|Raleway+Dots" rel="stylesheet">
 
@@ -20,12 +22,21 @@
   <!-- Custon css for specific page -->
   <link rel="stylesheet" href="css\<?php echo($currentPage); ?>.css" >
 
-
+  <!-- Bootstrap CSS file -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
   <!-- Remove bootstrap default styling -->
   <link rel="stylesheet" href ="css/remove-bootstrap-styles.css">
+
+  <!-- JQuery from Google's Library -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+  <!-- Bootstrap Javascript File -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+  <!-- Lightbox Javascript -->
+  <script src="js/lightbox.min.js"></script>
+
+
 
 </head>

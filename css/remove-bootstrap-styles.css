@@ -6,3 +6,8 @@
   margin-top: 70px;
   margin-bottom: 50px;
 }
+
+.gallery img{
+  /* width: 80%; To make thumbnail smaller */
+  display: inline;
+}
