@@ -37,6 +37,4 @@
   <!-- Lightbox Javascript -->
   <script src="js/lightbox.min.js"></script>
 
-
-
 </head>
