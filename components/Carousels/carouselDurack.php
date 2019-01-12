@@ -4,6 +4,13 @@
   <ol class="carousel-indicators">
     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
     <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+    <li data-target="#myCarousel" data-slide-to="3"></li>
+    <li data-target="#myCarousel" data-slide-to="4"></li>
+    <li data-target="#myCarousel" data-slide-to="5"></li>
+    <li data-target="#myCarousel" data-slide-to="6"></li>
+    <li data-target="#myCarousel" data-slide-to="7"></li>
+
   </ol>
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
@@ -21,11 +28,23 @@
     </div>
 
     <div class="item">
-      <img src="img/durackArt/frozenSoup.jpg" >
+      <img src="img/durackArt/Painter.jpg" >
     </div>
 
     <div class="item">
       <img src="img/durackArt/Portal.jpg" >
+    </div>
+
+    <div class="item">
+      <img src="img/durackArt/Viral.jpg" >
+    </div>
+
+    <div class="item">
+      <img src="img/durackArt/Primaries.jpg" >
+    </div>
+
+    <div class="item">
+      <img src="img/durackArt/blueGlass.jpg" >
     </div>
   </div>
 
